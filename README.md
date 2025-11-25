@@ -1,5 +1,3 @@
-# VanillaJS-Kanban-Board
-
 # VanillaJS Kanban Board 📝
 
 A clean, interactive Kanban board application designed to organize tasks across "To Do," "In Progress," and "Done" states. 
