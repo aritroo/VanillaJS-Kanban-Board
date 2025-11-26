@@ -15,6 +15,22 @@ I built this project to bridge the gap between learning syntax and building real
 * **CSS3:** Flexbox/Grid for layout and custom styling.
 * **JavaScript (ES6+):** Logic, Event Handling, and DOM manipulation.
 
+## Design Mockup
+
+<img width="944" height="576" alt="Screenshot 2025-11-26 at 8 34 17 AM" src="https://github.com/user-attachments/assets/d3c6bab9-d354-4516-9f22-d0162f45b649" />
+
+
+
+## Credits
+
+This project includes UI layouts and mockups sourced from the **SlothUI – Kanban Board App UI Kit**.  
+The Kanban components in the design are based on their free Figma kit.
+
+- SlothUI: https://slothui.com  
+- UI Kit: *3 Free Kanban Board App UI Kit*
+
+Thanks to SlothUI for providing the kit for free.
+
 ---
 
 ## ⚠️ Disclaimer
